@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey everyone👋! I'm Pablo 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Jr. Full Stack</strong>.<br />¡Revisa mis proyectos más recientes en pinned y mis tech skills👇!</p>
+<p align="center">Soy <strong>Desarrollador Full Stack</strong>.<br />¡Revisa mis proyectos más recientes en pinned y mis tech skills👇!</p>
 <p align="center">
 
 
