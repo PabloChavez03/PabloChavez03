@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" border="12" src="./perfil3.png" style='border-radius: 100%'/>
+   <img align="center" width="200" src="./perfil3.png"/>
    <h3 align="center">¡Hola a todos👋! Soy Pablo 👨🏻‍💻</h3>
 </p>
 
@@ -12,8 +12,8 @@
   <img src="./assets/img/next-js.png" width="50" height="50" align="center"/>
     &nbsp;
   <img src="./assets/img/react.png" width="50" height="45" align="center"/>
-    <img src="./assets/img/typescript.svg" width="50" height="50" align="center" style='margin-left: 1em'/>
     &nbsp;
+    <img src="./assets/img/typescript.svg" width="50" height="50" align="center"/>
     &nbsp;
       <img src="./assets/img/tailwindcss.png" width="50" height="50" align="center"/>
     &nbsp;
