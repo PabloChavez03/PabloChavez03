@@ -35,4 +35,4 @@
 
 - 👨🏻‍🎓 **[linkedin.com/in/pablo-oscar-chavez](https://www.linkedin.com/in/pablo-oscar-chavez/)**
 
-- 🌐 **[Web personal](https://chavezpablo-portfolio.vercel.app/)**
+- 🌐 **[Web personal](https://portafolio-3-0.vercel.app/)**
